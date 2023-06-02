@@ -1,0 +1,31 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  flex-direction: center;
+  text-align: center;
+  justify-content: center;
+}
+.title {
+  background-color: gray;
+  padding: 30px 0px;
+}
+.search {
+  margin: 25px auto 25px auto;
+  justify-content: center;
+  border-bottom: 2px solid gray;
+  padding-bottom: 25px;
+  width: 90%;
+  font-size: 23px;
+}
+.movielist {
+  width: 1200px;
+  margin: 20px auto 20px auto;
+}
+.title_h {
+  font-weight: 600;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+input {
+  width: 21%;
+}
